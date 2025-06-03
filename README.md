@@ -1,15 +1,20 @@
 🚀 Full-Stack E-Commerce Website 🛍️
+
 An Online Clothing Store for Women, Men, and Kids
+
 I'm excited to share my latest full-stack MERN project – a responsive Online Clothing Store designed for a smooth shopping experience across categories, from browsing to checkout. Built with modern tech and clean UI/UX principles, this app offers a real-world shopping workflow. 💻📱
 
 🔧 Tech Stack
 🔹 Frontend
 React.js (MVC Architecture)
 
+
 Tailwind CSS, HTML, CSS
+
 
 🔹 Backend
 Node.js, Express.js, MongoDB
+
 
 🔹 Tools & Utilities
 CORS
@@ -45,15 +50,22 @@ bash
 Copy
 Edit
 # Frontend
+
 cd client
+
 npm install
+
 npm start
 
 # Backend
 cd server
+
 npm install
+
 npm run dev
+
 Make sure MongoDB is running locally or set up in .env.
+
 
 🤝 Feedback & Collaboration
 Feel free to check out the project, clone it, and suggest improvements. I'm always open to feedback and collaborative opportunities!
